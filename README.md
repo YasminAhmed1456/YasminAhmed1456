@@ -1,6 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/yasminahmed1456" alt="Hello Coders" width="60%"/> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/yasminahmed1456" alt="Workspace" width="40%"/><br>
+<a href="https://github.com/yasminahmed1456">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello+Coders+%F0%9F%91%8B;I'm+Yasmin+Ahmed" alt="Hello Coders, I'm Yasmin Ahmed" width="60%"/>
+</a> <br> <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/yasminahmed1456" alt="Workspace" width="40%"/><br>
 
 <details>
 <p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
@@ -9,7 +11,7 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=yasminahmed1456\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+[![Totals Hits](https://komarev.com/ghpvc/?username=yasminahmed1456\&style=flat\&color=orange\&label=PROFILE+VIEWS)](https://yasminahmed1456.github.io/Portfolio-Project/)
 
 [![linkedin badge](https://img.shields.io/badge/Yasmin%20Ahmed-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328/) <br>
 
@@ -76,15 +78,15 @@ class About extends Me {
 }
 ```
 
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently developing my skills in **Front-End Development & React**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%"/><br>
+* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently developing my skills in **Front-End Development & React**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%"/><br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **responsive and modern web interfaces**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />    I enjoy building **responsive and modern web interfaces**. <br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **HTML, CSS, JavaScript, React, Bootstrap, or Front-End Development**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **HTML, CSS, JavaScript, React, Bootstrap, or Front-End Development**. <br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: **[Yasmin Ahmed](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328b/)**<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: **[Yasmin Ahmed](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328/)**<br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I enjoy turning **creative designs into interactive web experiences**. <br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I enjoy turning **creative designs into interactive web experiences**. <br>
 
 <div align="center" >
 
@@ -95,13 +97,6 @@ class About extends Me {
 <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
 </a>
-
-<details>
-  <summary>More stats</summary>
-
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
 
 <hr></hr>
 
@@ -116,3 +111,6 @@ class About extends Me {
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="40%"/-->
 
 </div>
+
+
+
