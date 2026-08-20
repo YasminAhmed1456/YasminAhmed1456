@@ -11,8 +11,6 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=yasminahmed1456\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyasminahmed1456\&count_bg=%2379C83D\&title_bg=%23555555\&icon=mediafire.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
-
 [![linkedin badge](https://img.shields.io/badge/Yasmin%20Ahmed-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328/) <br>
 
 </div>
@@ -84,7 +82,7 @@ class About extends Me {
 
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />   Ask me about **HTML, CSS, JavaScript, React, Bootstrap, or Front-End Development**. <br>
 
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: **[Yasmin Ahmed](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328/)**<br>
+* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />   Find me on LinkedIn: **[Yasmin Ahmed](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328b/)**<br>
 
 * <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />    Fun fact: I enjoy turning **creative designs into interactive web experiences**. <br>
 
