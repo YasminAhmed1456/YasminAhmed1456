@@ -11,7 +11,7 @@
 
 </details>
 
-[![Totals Hits](https://komarev.com/ghpvc/?username=yasminahmed1456\&style=flat\&color=orange\&label=PROFILE+VIEWS)](https://yasminahmed1456.github.io/Portfolio-Project/)
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
 [![linkedin badge](https://img.shields.io/badge/Yasmin%20Ahmed-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/yasmin-ahmed-8bb4a328/) <br>
 
